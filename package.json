@@ -1,5 +1,6 @@
 {
   "name": "bridge-tournament-scorer",
+  "homepage": "https://Mikes-Bridge-Scorer.github.io/bridge-tournament-scorer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
